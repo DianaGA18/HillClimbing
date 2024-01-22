@@ -1,0 +1,3 @@
+API con el algoritmo de búsqueda local que a partir de un estado inicial, trata de ir mejorando el resultado, analizando
+los estados vecinos...
+Los archivos index.html y resultado.html deberán de ir en una carpeta llamada "templates"
